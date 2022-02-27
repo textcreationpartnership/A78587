@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of an agitator</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78587</idno>
+            <idno type="STC">Wing C2003</idno>
+            <idno type="STC">Thomason E414_3</idno>
+            <idno type="EEBO-CITATION">99863983</idno>
+            <idno type="PROQUEST">99863983</idno>
+            <idno type="VID">161278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161278)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of an agitator</title>
+                  <author>Sherburne, Edward, Sir, 1618-1702, attributed name.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Sir Edward Sherburne.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161278:1" rendition="simple:additions"/>
+            <p>THE CHARACTER OF AN AGITATOR.</p>
+            <p>
+               <add>Novemb: 11<hi rend="sup">th.</hi>
+               </add>
+            </p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161278:2"/>
+            <pb n="3" facs="tcp:161278:2"/>
+            <head>THE CHARACTER OF AN AGITATOR.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N <hi>Agitator</hi> is a late ſpurious <hi>Monſter</hi> of <hi>John Lilburnes</hi> ge<g ref="char:EOLhyphen"/>neration, compounded of theſe Sects unites into one body, an <hi>Anabaptiſt,</hi> a <hi>Jeſuit,</hi> a <hi>Seperatiſt,</hi> and a <hi>Seeker,</hi> by
+<pb n="4" facs="tcp:161278:3"/>whoſe principles he is agitated, and ſteared in all his excentrick Motions; Hee is an univer<g ref="char:EOLhyphen"/>ſall Enemy to all Order, and Government, both in <hi>Church</hi> and <hi>State.</hi> Hee will have, and acknowledge, no <hi>King, Parliament, Maje<g ref="char:EOLhyphen"/>ſtrate,</hi> or <hi>Superiour</hi> Power in the <hi>State</hi> but him<g ref="char:EOLhyphen"/>ſelfe, and the very Raſcallity of the Common People, who have beene purified from all their iniquities, and made unſpotted Saints, not by the blood of Ieſus, but by ſome new dippers <hi>Rebaptization.</hi> Hee ſolicites day and night, that the <hi>King,</hi> and <hi>Members</hi> of both Houſes of Parliament may be brought to publique Tryall, and Execution, as the greateſt <hi>Tray<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors,</hi> and <hi>Tyrants,</hi> and according to their Father <hi>Lilburnes</hi> Principles [<hi>See his juglers diſcovered, page</hi> 3<g ref="char:punc">▪</g> 4.] and Proteſtation; Make no more ſcruple of conſcience, with their owne hands to deſtroy the <hi>King,</hi> and <hi>Members</hi> of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, (whom they terme the <hi>Ty<g ref="char:EOLhyphen"/>rants</hi> at <hi>Weſtminſter,</hi> who have deſtroyed all <hi>Law,</hi> and <hi>Iuſtice, Equity,</hi> and <hi>Conſcience,</hi> by their
+<pb n="5" facs="tcp:161278:3"/>
+               <hi>Arbitrary</hi> and <hi>Tyrannicall Will</hi>) then to deſtroy ſo many VVeaſells .and Pole-cats. Hee will acknowledge neither our <hi>Churches,</hi> nor <hi>Mini<g ref="char:EOLhyphen"/>ſters,</hi> nor <hi>Sacraments,</hi> nor <hi>Ordinances,</hi> nor yet the <hi>Trinity,</hi> or ſacred <hi>Scriptures</hi> themſelves, and ere long will deny there is any <hi>God</hi> at all either in Heaven or Earth to controle or preſcribe any Lawes or Rules unto them. Hee is a meere <hi>Atheiſt</hi> in his heart, a <hi>Heretick</hi> in his braine, a <hi>Devill</hi> in his tongue, a <hi>Ieſuit</hi> in his Conſutations, a <hi>Traytour</hi> in his Agitations, a <hi>Saint</hi> only in his pretention; hee is very zealous againſt <hi>Tithes,</hi> and condemnes them as Anti<g ref="char:EOLhyphen"/>chriſtian, becauſe hee would ſtarve the Mini<g ref="char:EOLhyphen"/>ſters, and as zealous againſt <hi>Biſhoppes, Deanes,</hi> and <hi>Chapters,</hi> and yet Petitions for all their <hi>Lands</hi> and <hi>Tithes</hi> to ſatisfie his pretended great Arreares, though as Antichriſtian as their late Poſſeſſors, or any Tithes, or Miniſters. Hee loves Venery ſo well, that hee ſo liciteth the Houſes for all <hi>Forreſt Lands</hi> to be ſettled in his fraternity, it ſeemes they are either ſuch wild
+<pb n="6" facs="tcp:161278:4"/>
+               <hi>Beaſts</hi> already as are fit for nothing but to be ſent a graſing into <hi>Forreſts,</hi> or deſirous to re<g ref="char:EOLhyphen"/>ſtraine the <hi>King,</hi> his <hi>Heires,</hi> and <hi>Succeſſors</hi> from the ſinne of overmuch hunting, or ſurfeiting upon Veniſon. Hee would have Coppy-hold Tenants, pay no Rents or Fines to their Land<g ref="char:EOLhyphen"/>lord, but himſelfe. The earth is the Saints, and the fullneſſe thereof, and to pay Rents on the foure uſuall Saints dayes (now aboliſhed) to any but Saints (and that for pay or free quar<g ref="char:EOLhyphen"/>ter which now eates them out) it meere <hi>Popery</hi> and <hi>Superſtition.</hi>
+            </p>
+            <p>In briefe he is ſuch a <hi>Monſter</hi> as dares <hi>impri<g ref="char:EOLhyphen"/>ſon</hi> and <hi>murther</hi> his <hi>King, force</hi> and <hi>blow</hi> up a <hi>Parliament,</hi> mutiny a whole Godly Army into high Treaſon, ruine a moſt glorious <hi>City</hi> and <hi>Kingdome,</hi> impeach the faithfulleſt Members, and Parliaments beſt friends of thoſe Treaſons of which himſelfe in moſt guilty, pleads for a <hi>Toleration</hi> of all <hi>Religions,</hi> being himſelfe of none, or any at his pleaſure, a meere Lawleſſe Libertine, a firebrand of <hi>Superſtition,</hi> who cares
+<pb n="7" facs="tcp:161278:4"/>not what he ſpeakes or acts, feares not whom he offends or ſlanders, is a common enemy to all, a true friend to none, a wandring <hi>Meteor,</hi> a raging <hi>Wave,</hi> of the <hi>Sea,</hi> a new upſtart <hi>Muſh<g ref="char:EOLhyphen"/>rome,</hi> all <hi>Head</hi> and no <hi>Body, White</hi> in the mor<g ref="char:EOLhyphen"/>ning, <hi>Black</hi> VVorme eaten, and ranke Poyſon before night, and hates a <hi>Scot</hi> and <hi>Presbyterian</hi> more then either <hi>Pope</hi> or <hi>Deviſt.</hi> Hee was be<g ref="char:EOLhyphen"/>gotten of <hi>Liburne</hi> (with <hi>Overtous</hi> helpe) in <hi>Newgate,</hi> nurſed up by <hi>Cromwell</hi> at firſt by the <hi>Army,</hi> tutored by Mr. <hi>Peters,</hi> counſelled by Mr. <hi>Walwin</hi> and <hi>Muſgrave,</hi> patroniſed by Mr. <hi>Mar<g ref="char:EOLhyphen"/>tin,</hi> (who ſometimes ſits in Counſell with them though a <hi>Member</hi>) and is like to dye no where but at <hi>Tyburne,</hi> and that ſpeedily, if hee repent not, and reforme his Erronious Iudgement, and his Seditious Treaſonable Practiſes againſt <hi>King, Parliament,</hi> and <hi>Martiall Diſciplin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it</hi> ſelfe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
